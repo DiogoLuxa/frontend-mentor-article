@@ -5,10 +5,6 @@
   box-sizing: border-box;
 }
 
-*:focus {
-  outline: none;
-}
-
 html {
   font-size: 62.5%;
 }
@@ -135,6 +131,7 @@ body .container .card__main .card__author-info .wrapper .card__author-name {
   color: #48556a;
 }
 body .container .card__main .card__author .card__share {
+  position: relative;
   width: 3.2rem;
   height: 3.2rem;
   display: grid;
@@ -144,6 +141,13 @@ body .container .card__main .card__author .card__share {
   cursor: pointer;
   z-index: 1;
   transition: background-color 0.3s ease-in-out;
+}
+body .container .card__main .card__author .card__share:hover {
+  box-shadow: 0px 0px 0px 3px #6d7f97;
+}
+body .container .card__main .card__author .card__share:focus, body .container .card__main .card__author .card__share:active {
+  outline: none;
+  box-shadow: 0px 0px 0px 3px #6d7f97;
 }
 body .container .card__main .card__author .card__share img {
   filter: brightness(100%);
@@ -203,6 +207,11 @@ body .container .card__social-share-icons {
   left: 2px;
   display: flex;
   column-gap: 1.6rem;
+}
+body .container .card__social-share-icons a:focus,
+body .container .card__social-share-icons a:active {
+  outline: none;
+  box-shadow: 0px 3px 0 0 #ffffff;
 }
 body .container .card__social-share-icons a:nth-child(2) {
   transform: translateY(10%);
