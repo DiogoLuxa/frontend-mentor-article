@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I mainly learned about accessibility and how to implement certain features, as well as how to handle SVG files more effectively.
+The biggest challenge was creating the social media sharing element that looked good on both mobile and desktop.
 
 ### Useful resources
 
