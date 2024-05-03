@@ -5,7 +5,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ## Table of contents
 
 - [Frontend Mentor - Article preview component solution](#frontend-mentor---article-preview-component-solution)
-  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -32,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor - Solution](https://www.frontendmentor.io/solutions/article-preview-component-6QPPOwbkeq)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-6QPPOwbkeq)
 - Live Site URL: [Preview](https://diogoluxa.github.io/frontend-mentor-article/)
 
 ## My process
