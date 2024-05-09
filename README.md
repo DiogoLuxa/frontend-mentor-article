@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-6QPPOwbkeq)
-- Live Site URL: [Preview](https://diogoluxa.github.io/frontend-mentor-article/)
+- Live Site URL: [Article Preview](https://diogoluxa.github.io/frontend-mentor-article/)
 
 ## My process
 
